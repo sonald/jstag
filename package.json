@@ -1,0 +1,25 @@
+{
+  "name": "jstag",
+  "version": "0.1.0",
+  "description": "javascript tag info powered by esprima",
+  "main": "jstag.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "",
+  "keywords": [
+    "esprima",
+    "tag"
+  ],
+  "author": {
+      "name": "Sian Cao",
+      "email": "yinshuiboy@gmail.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+      "esprima": "0.9.x"
+  }
+}
